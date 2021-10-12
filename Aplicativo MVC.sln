@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back Office", "Back Office\Back Office.csproj", "{5A8A0659-075D-4283-9902-BF52EA3AC154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tela web", "Tela web\Tela web.csproj", "{CADCC996-7C8E-43BC-9172-42F1F6562DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tela desk", "Tela desk\Tela desk.csproj", "{F30185B6-E838-4D35-A8AC-B9DE53B37A26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A8A0659-075D-4283-9902-BF52EA3AC154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8A0659-075D-4283-9902-BF52EA3AC154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8A0659-075D-4283-9902-BF52EA3AC154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8A0659-075D-4283-9902-BF52EA3AC154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADCC996-7C8E-43BC-9172-42F1F6562DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADCC996-7C8E-43BC-9172-42F1F6562DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADCC996-7C8E-43BC-9172-42F1F6562DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADCC996-7C8E-43BC-9172-42F1F6562DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30185B6-E838-4D35-A8AC-B9DE53B37A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30185B6-E838-4D35-A8AC-B9DE53B37A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30185B6-E838-4D35-A8AC-B9DE53B37A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30185B6-E838-4D35-A8AC-B9DE53B37A26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD5A1BBD-C0E8-474E-87BA-9B6BC15C2A1C}
+	EndGlobalSection
+EndGlobal
