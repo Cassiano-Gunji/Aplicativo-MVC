@@ -22,7 +22,7 @@ namespace aplicativoMVC.modelo.dal
                 {
                     // Objeto que auxilia a configurar uma conexão com BD.
                     SqlConnectionStringBuilder cs = new SqlConnectionStringBuilder();
-                    cs.DataSource = "BORG-QUEEN";
+                    cs.DataSource = "Localhost";
                     cs.InitialCatalog = "Agenda";
                     cs.Authentication = SqlAuthenticationMethod.ActiveDirectoryIntegrated;
                     cs.TrustServerCertificate = true;
